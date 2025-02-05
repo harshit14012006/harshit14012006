@@ -1,12 +1,10 @@
-# Hello I'm Priyanshu Chahar
+# Hello I'm Harshit Singla
 
 Passionate developer Building applications with modern technologies while constantly learning and growing my skillset.
 
 <div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://priyanshuchahar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyannxhuu)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harshit14012006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshitdevfolio.vercel.app)
 
 </div>
 
